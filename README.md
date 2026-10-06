@@ -56,3 +56,10 @@ pip install -r requirements.txt
 Then run:
 
 python iris_classification.py
+## Results
+
+The K-Nearest Neighbors (KNN) model was trained and tested using the Iris dataset.
+
+The model achieved an accuracy of **100% (1.0)** on the test data.
+
+For the sample input, the model predicted the flower species as **Setosa**.
